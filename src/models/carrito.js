@@ -14,3 +14,4 @@ module.exports= mongoose.model("Carrito", carritoSchema)
 // get listar carrrito x cliente
 // post//insertar
 // delete
+//carrito es
